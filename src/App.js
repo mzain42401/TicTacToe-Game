@@ -29,7 +29,7 @@ const App = () => {
           </div>
           <div>
             <h1 className={`md:text-4xl md:px-0 px-6 text-3xl text-center font-bold ${isDark?"text-white":"text-[#3f3f46]"}`}>
-              TicTacToe with Mr. Zain Ali
+              TicTacToe with M. Zain Ali
             </h1>
           </div>
           <div
